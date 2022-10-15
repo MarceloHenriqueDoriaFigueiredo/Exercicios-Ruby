@@ -1,7 +1,7 @@
 # Exercicios-Ruby
  Repositório com exercícios em Ruby para praticar.
 
-# Os exercicios foram feitos de acordo com os desafios disponibilizados em sites para praticar programaç como:
+# Os exercicios foram feitos de acordo com os desafios disponibilizados em sites para praticar programacao como:
  * Beecrowd
  * Codewars
  * Exercism
